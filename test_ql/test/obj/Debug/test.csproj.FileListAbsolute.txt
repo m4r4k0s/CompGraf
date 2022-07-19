@@ -1,0 +1,14 @@
+E:\всякий хлам\yy\Desktop\test\test\bin\Debug\test.exe.config
+E:\всякий хлам\yy\Desktop\test\test\bin\Debug\test.exe
+E:\всякий хлам\yy\Desktop\test\test\bin\Debug\test.pdb
+E:\всякий хлам\yy\Desktop\test\test\obj\Debug\test.csprojAssemblyReference.cache
+E:\всякий хлам\yy\Desktop\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\всякий хлам\yy\Desktop\test\test\obj\Debug\test.exe
+E:\всякий хлам\yy\Desktop\test\test\obj\Debug\test.pdb
+C:\Users\Sorjo\Desktop\books & doc\programs\test_ql\test\bin\Debug\test.exe.config
+C:\Users\Sorjo\Desktop\books & doc\programs\test_ql\test\bin\Debug\test.exe
+C:\Users\Sorjo\Desktop\books & doc\programs\test_ql\test\bin\Debug\test.pdb
+C:\Users\Sorjo\Desktop\books & doc\programs\test_ql\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Sorjo\Desktop\books & doc\programs\test_ql\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Sorjo\Desktop\books & doc\programs\test_ql\test\obj\Debug\test.exe
+C:\Users\Sorjo\Desktop\books & doc\programs\test_ql\test\obj\Debug\test.pdb

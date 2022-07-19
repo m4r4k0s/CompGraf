@@ -1,0 +1,21 @@
+C:\Users\blkas\Desktop\books & doc\programs\test\test\bin\Debug\test.exe.config
+C:\Users\blkas\Desktop\books & doc\programs\test\test\bin\Debug\test.exe
+C:\Users\blkas\Desktop\books & doc\programs\test\test\bin\Debug\test.pdb
+C:\Users\blkas\Desktop\books & doc\programs\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\books & doc\programs\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\books & doc\programs\test\test\obj\Debug\test.exe
+C:\Users\blkas\Desktop\books & doc\programs\test\test\obj\Debug\test.pdb
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\test\test\bin\Debug\test.exe.config
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\test\test\bin\Debug\test.exe
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\test\test\bin\Debug\test.pdb
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\test\test\obj\Debug\test.exe
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\test\test\obj\Debug\test.pdb
+C:\Users\Sorjo\Desktop\books & doc\programs\test_hc\test\bin\Debug\test.exe.config
+C:\Users\Sorjo\Desktop\books & doc\programs\test_hc\test\bin\Debug\test.exe
+C:\Users\Sorjo\Desktop\books & doc\programs\test_hc\test\bin\Debug\test.pdb
+C:\Users\Sorjo\Desktop\books & doc\programs\test_hc\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Sorjo\Desktop\books & doc\programs\test_hc\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Sorjo\Desktop\books & doc\programs\test_hc\test\obj\Debug\test.exe
+C:\Users\Sorjo\Desktop\books & doc\programs\test_hc\test\obj\Debug\test.pdb
