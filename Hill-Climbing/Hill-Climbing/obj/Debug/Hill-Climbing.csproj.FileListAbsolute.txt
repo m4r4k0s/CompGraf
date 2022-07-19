@@ -1,0 +1,30 @@
+C:\Users\blkas\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\bin\Debug\Hill-Climbing.exe.config
+C:\Users\blkas\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\bin\Debug\Hill-Climbing.exe
+C:\Users\blkas\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\bin\Debug\Hill-Climbing.pdb
+C:\Users\blkas\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill_Climbing.Form1.resources
+C:\Users\blkas\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill_Climbing.Properties.Resources.resources
+C:\Users\blkas\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.csproj.GenerateResource.cache
+C:\Users\blkas\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.exe
+C:\Users\blkas\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.pdb
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\Hill-Climbing\Hill-Climbing\bin\Debug\Hill-Climbing.exe.config
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\Hill-Climbing\Hill-Climbing\bin\Debug\Hill-Climbing.exe
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\Hill-Climbing\Hill-Climbing\bin\Debug\Hill-Climbing.pdb
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.csprojAssemblyReference.cache
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill_Climbing.Form1.resources
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill_Climbing.Properties.Resources.resources
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.csproj.GenerateResource.cache
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.csproj.CoreCompileInputs.cache
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.exe
+C:\Users\blkas\OneDrive\Рабочий стол\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.pdb
+C:\Users\Sorjo\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\bin\Debug\Hill-Climbing.exe.config
+C:\Users\Sorjo\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\bin\Debug\Hill-Climbing.exe
+C:\Users\Sorjo\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\bin\Debug\Hill-Climbing.pdb
+C:\Users\Sorjo\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.csprojAssemblyReference.cache
+C:\Users\Sorjo\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill_Climbing.Form1.resources
+C:\Users\Sorjo\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill_Climbing.Properties.Resources.resources
+C:\Users\Sorjo\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.csproj.GenerateResource.cache
+C:\Users\Sorjo\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.csproj.CoreCompileInputs.cache
+C:\Users\Sorjo\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.exe
+C:\Users\Sorjo\Desktop\books & doc\programs\Hill-Climbing\Hill-Climbing\obj\Debug\Hill-Climbing.pdb
